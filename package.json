@@ -1,0 +1,23 @@
+{
+  "name": "roman_numerals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrunaldhangare/roman_numerals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrunaldhangare/roman_numerals/issues"
+  },
+  "homepage": "https://github.com/mrunaldhangare/roman_numerals#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
